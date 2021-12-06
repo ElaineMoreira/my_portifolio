@@ -1,10 +1,23 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Homepage from "./components/Homepage";
+import Error from "./components/Error";
+import Projects from "./pages/Projects";
 
 function App() {
   return ( 
     <BrowserRouter>
-      <h1>Elaine Moreira</h1>
-    </BrowserRouter>
+      <Switch>
+        <Route path="/" exact>
+          <Homepage />
+        </Route>
+        <Route path="/projects">
+          <Projects />
+        </Route>
+        <Route path="*">
+          <Error />
+        </Route>
+      </Switch>
+    </BrowserRouter>  
   );
 }
 
