@@ -1,4 +1,4 @@
-import { FaLinkedinIn, FaGithub } from "react-icons/fa";
+import { FaLinkedinIn, FaGithub, FaInstagram } from "react-icons/fa";
 
 const Homepage = () => {
     return (
@@ -24,6 +24,15 @@ const Homepage = () => {
                             rel="noreferrer"
                             >
                             <FaGithub />
+                        </a>
+                    </li>
+                    <li>
+                        <a 
+                            href="https://www.instagram.com/elaine_f_moreira/" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            <FaInstagram />
                         </a>
                     </li>
                 </ul>
