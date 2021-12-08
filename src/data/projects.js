@@ -60,7 +60,7 @@ export const projects = [
         desc: "HTML/CSS - GLASSMORFISMO",
         github: "https://github.com/ElaineMoreira",
         repo: "https://github.com/ElaineMoreira/GLASSMORFISM_LEARN",
-        image: "https://github.com/ElaineMoreira/GLASSMORFISM_LEARN/raw/main/calculadora/calculadoraInterface.png?raw=true"
+        image: "https://github.com/ElaineMoreira/my_portifolio/blob/main/src/images/calculadoraInterface.png?raw=true"
         
     },
     
