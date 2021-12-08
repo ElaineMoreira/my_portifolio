@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - react-icons - https://react-icons.github.io/react-icons
 - react-router-dom - versao - 5.2 - para uso do switch
 - google fonts - https://fonts.google.com/specimen/Manrope?query=manro
+- como usar a biblioteca uuid - https://medium.com/trainingcenter/o-que-%C3%A9-uuid-porque-us%C3%A1-lo-ad7a66644a2b
+- instalação do uuid - https://www.npmjs.com/package/uuid

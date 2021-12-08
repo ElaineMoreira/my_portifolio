@@ -171,6 +171,10 @@ a {
 
   }
 
+  .projects {
+    
+  }
+
 @media (max-width: 500px) {
   .homepage .overlay h1 {
     font-size: 48px;
