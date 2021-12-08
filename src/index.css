@@ -30,6 +30,12 @@ a {
   text-decoration: none;
   color: #fff;
 }
+
+/* imagem */
+img {
+  width:600px;
+  height: 510px;
+}
 /* menu header*/
 .menu-btn {
   position: absolute;
@@ -130,6 +136,7 @@ a {
 }
 
 .projects h1 {
+  font-size: 50px;
   padding: 50px 80px;
   color : #fff;
 }
@@ -141,13 +148,36 @@ a {
   margin: auto;
   gap: 40px;
   color: #fff;
+  padding-bottom: 20px;
 }
 
 .projects .cards h4 {
   font-size: 24px;
-  margin-bottom: 10px;
+  margin: 20px 0 10px;
 }
 
+.projects .cards p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.projects .cards ul {
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+}
+/* estilizar so o github button */
+.projects .cards ul li > a.github {
+  background-color: #333;
+  padding: 5px;
+  font-size: 17px;
+}
+/* estilizar so o repositorio button */
+.projects .cards ul li > a.repo {
+  background-color: rgb(165, 16, 16);
+  padding: 5px;
+  font-size: 17px;
+}
 /* contacts */
 .contacts {
   background-image: var(--background-image);
@@ -196,6 +226,17 @@ a {
     font-size: 65px;
 
   }
+@media (max-width: 992px) {
+  .homepage .overlay h1 {
+    font-size: 64px;
+  }
+}
+
+@media (max-width: 768px) {
+  .projects .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 
 @media (max-width: 500px) {
   .homepage .overlay h1 {

@@ -16,12 +16,12 @@ const Projects = () => {
                             <p>{ desc }</p>
                             <ul>
                                 <li>
-                                    <a href={ github } target="_blank" rel="noopenner noreferrer">
+                                    <a href={ github } target="_blank" rel="noopenner noreferrer" className="github">
                                         GitHub
                                     </a>
                                 </li>
                                 <li>
-                                    <a href={ repo } target="_blank" rel="noopenner noreferrer">
+                                    <a href={ repo } target="_blank" rel="noopenner noreferrer" className="repo">
                                         Repositório
                                     </a>
                                 </li>
