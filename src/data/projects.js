@@ -54,5 +54,15 @@ export const projects = [
         image: "https://github.com/ElaineMoreira/my_portifolio/blob/main/src/images/homepageGoogle.png?raw=true"
         
     },
+    {
+        id: uuidv4(),
+        title: "Projeto sete",
+        desc: "HTML/CSS - GLASSMORFISMO",
+        github: "https://github.com/ElaineMoreira",
+        repo: "https://github.com/ElaineMoreira/GLASSMORFISM_LEARN",
+        image: "https://github.com/ElaineMoreira/GLASSMORFISM_LEARN/raw/main/calculadora/calculadoraInterface.png?raw=true"
+        
+    },
+    
 
 ]
