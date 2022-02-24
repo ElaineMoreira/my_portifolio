@@ -1,4 +1,22 @@
-# Em construção
+================================================================================================
+
+# my_portifolio
+
+# Tecnologias utilizadas
+
+- react-icons - https://react-icons.github.io/react-icons
+- react-router-dom - versao - 5.2 - para uso do switch
+- google fonts - https://fonts.google.com/specimen/Manrope?query=manro
+- como usar a biblioteca uuid - https://medium.com/trainingcenter/o-que-%C3%A9-uuid-porque-us%C3%A1-lo-ad7a66644a2b
+- instalação do uuid - https://www.npmjs.com/package/uuid
+
+# Hospedagens
+ - netlify 
+
+# link do site
+ - https://elainemoreira.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,11 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# my_portifolio
-# Tecnologias utilizadas
 
-- react-icons - https://react-icons.github.io/react-icons
-- react-router-dom - versao - 5.2 - para uso do switch
-- google fonts - https://fonts.google.com/specimen/Manrope?query=manro
-- como usar a biblioteca uuid - https://medium.com/trainingcenter/o-que-%C3%A9-uuid-porque-us%C3%A1-lo-ad7a66644a2b
-- instalação do uuid - https://www.npmjs.com/package/uuid
+================================================================================================
