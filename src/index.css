@@ -115,6 +115,9 @@ img {
 .homepage .overlay p {
   color: #fff;
   font-size: 35px;
+}
+
+.effect {
   animation: digitando 3s steps(25), blink .4s infinite alternate;
   white-space: nowrap;
   overflow: hidden;
