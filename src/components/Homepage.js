@@ -6,7 +6,7 @@ const Homepage = () => {
             <section className="homepage">
               <div className="overlay">
                 <h1>Elaine Moreira</h1>
-                <p>FullStack Developer</p>
+                <p className="effect">FullStack Developer</p>
                 <ul>
                     <li>
                         <a 
